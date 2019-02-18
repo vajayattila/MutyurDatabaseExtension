@@ -29,7 +29,7 @@ $config['routes']=array(
 	'dbtest' => 'defaultcontroller/dbtest'	// for database demonstration	
 );
 ```
-# Add m_databasedemo member to derfaultcontroller.php.
+# Add m_databasedemo member to defaultcontroller.php.
 In the application/controllers you can see these files:
 - defaultcontroller.php
 - defaultcontroller_database_sample.php
