@@ -81,9 +81,10 @@ then write to your browser the following url:
 ```
 http://127.0.0.1:8001/dbtest
 ```
+```
 if everyting is good then you can see this:
 Database name is: demodatabase.db
 DatabaseDemo's version: 1.0.0.0
 DatabaseDemo's description: Sqlite Demo Database
-
+```
 Have a look the **application/extensions/databasedemo.php** for learning more!
